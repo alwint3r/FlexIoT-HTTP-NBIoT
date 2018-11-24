@@ -1,0 +1,3 @@
+[submodule "lib/Sodaq_nbIOT"]
+	path = lib/Sodaq_nbIOT
+	url = https://github.com/dycodex/Sodaq_nbIOT
